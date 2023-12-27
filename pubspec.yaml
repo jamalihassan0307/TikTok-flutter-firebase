@@ -44,7 +44,7 @@ dependencies:
   timeago:
   get:
   video_compress: 
-  # video_player:
+  video_player:
   font_awesome_flutter: 
 
 dev_dependencies:
